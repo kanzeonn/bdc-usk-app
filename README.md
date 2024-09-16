@@ -22,8 +22,8 @@ This repository contains an image classification system built using PyTorch, Fas
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/kanzeonn/bdc-usk-app.git
+cd bdc-usk-app
 ```
 
 ### Set up the virtual environment:
